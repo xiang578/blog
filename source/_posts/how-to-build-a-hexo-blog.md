@@ -275,6 +275,11 @@ github 项目中相关的地址修改
 ![](http://
 7xkpe5.com1.z0.glb.clouddn.com/15220746795739.jpg)
 
+### 自动备份博客相关的源文件
+
+
+参考博文[自动备份Hexo博客源文件 | Jolson's Blog](http://zhujiegao.com/2015/12/06/automatic-backup/)
+
 -------
 
 大概这样就完成一个博客的安装和部署，接下来你就可以快乐的写博客。
