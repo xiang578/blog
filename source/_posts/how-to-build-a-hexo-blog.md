@@ -1,4 +1,4 @@
-title: 我的博客搭建过程
+title: 从零开始利用 hexo + Github/Coding 搭建个人博客
 date: 2015-08-15 19:43:17
 tags: [hexo,blog]
 categories: 程序园

@@ -68,4 +68,7 @@ categories: 构建之法
 4. [徐宥：掉进读书的兔子洞](https://book.douban.com/subject/4006425/discussion/22802960/)
 5. [xiang578/MachineLearningAction: 《机器学习实战》](https://github.com/xiang578/MachineLearningAction)
 
+![IMG_0233](http://
+7xkpe5.com1.z0.glb.clouddn.com/IMG_0233.JPG)
+
 
