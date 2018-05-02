@@ -1,9 +1,9 @@
 <h1 align="center">
-<a href="https://github.com/xiang578/xiang578.github.io/issues">GitHub Issues · xiang578/xiang578.github.io</a>
+<a href="https://github.com/xiang578/xiang578.github.io/issues">Issues Life· xiang578/xiang578.github.io</a>
 <h5 align="center", style="color, #666">
 :bowtie: Agile Learning based on GitHub issues, <strong>KEEP</strong> Retrospection and Introspection! 
 <br>
-基于 GitHub issues 的敏捷学习，持续行动，持续反思，持续进步…
+基于 GitHub issues 的项目管理，持续行动，持续反思，持续进步，持续成长……
 </h5>
 </h1>
 
@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" />
 <a href="https://waffle.io/xiang578/xiang578.github.io/metrics/throughput" alt="Throughput Graph"><img src="https://graphs.waffle.io/xiang578/xiang578.github.io/throughput.svg"/></a>
 </p>
+
+## 007 不写就出局
+![IMG_0233](http://
+7xkpe5.com1.z0.glb.clouddn.com/IMG_0233.JPG)
 
 ## 参考列表
 - 收集使用这种方法的 repo 地址中，欢迎与我联系
