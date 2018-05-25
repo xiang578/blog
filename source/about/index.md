@@ -3,17 +3,19 @@ comments: true
 date: 2015-08-15 10:59:25
 ---
 
-* 网络常用名: Ryan
+* 网络常用名: RyanX、xiang578
 * 国内某二本大学计算机专业业余学生，即将毕业，踏入红尘
 * 多次ACM比赛打铁
+* 数字生活践行者，关注个人成长、效率提升领域
 * 联系我: i@xiang578.com
-* 推荐使用大纲思维导图工具——幕布，点[我的邀请链接](https://mubu.com/inv/47235)注册，享受15天尊贵的高级会员服务
 
 ----------
 
 # 友情链接
-- [海虹不老阁](http://haihongblog.com/)：~~(准)北京某知名高校研究生~~ ~~浙江某985高校研究生（准）~~
-- [Ocrosoft](https://www.ocrosoft.com/): 一学弟，二次元
+- [海虹不老阁](http://haihongblog.com/)：~~北京某知名高校研究生~~ ~~浙江某985高校研究生~~ 小仙女
+- [Ocrosoft](https://www.ocrosoft.com/): 
+- [Fighting Heart](http://www.cnblogs.com/zufezzt): Microsoft - Software Engineer，浙江财经大学本科生巅峰典范
+- 交换友情链接请在下方留言
 
 # 捐款
 捐款不会给你带来什么，不捐也不会让你失去什么。
@@ -44,4 +46,8 @@ date: 2015-08-15 10:59:25
 - 20171005：重新投入hexo怀抱，并托管于Coding Pages
 - 20180101：开启功德箱
 - 20180501：PV: 657 | UV: 242
+
+----------
+
+有幸看到这里，不留一条言来向我介绍一下你吗？
 
