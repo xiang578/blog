@@ -3,17 +3,18 @@ comments: true
 date: 2015-08-15 10:59:25
 ---
 
-* 网络常用名: RyanX、xiang578
+* 网络常用名: xRyan、xiang578
 * 国内某二本大学计算机专业业余学生，即将毕业，踏入红尘
 * 多次ACM比赛打铁
-* 数字生活践行者，关注个人成长、效率提升领域
+* 数字生活践行者
+* 可以提供大学计算机专业学习、效率软件使用（笔记类、任务管理类等）等问题咨询
 * 联系我: i@xiang578.com
 
 ----------
 
 # 友情链接
-- [海虹不老阁](http://haihongblog.com/)：~~北京某知名高校研究生~~ ~~浙江某985高校研究生~~ 小仙女
-- [Ocrosoft](https://www.ocrosoft.com/): 
+- [海虹不老阁](http://haihongblog.com/)：~~北京某知名高校研究生~~ ~~浙江某985高校研究生~~ 小仙女？
+- [Ocrosoft](https://www.ocrosoft.com/)：有点杂，看他最近对什么感兴趣
 - [Fighting Heart](http://www.cnblogs.com/zufezzt): Microsoft - Software Engineer，浙江财经大学本科生巅峰典范
 - 交换友情链接请在下方留言
 
@@ -23,8 +24,8 @@ date: 2015-08-15 10:59:25
 
 # 致谢
 
-1. 2016年9月1日 Fighting Heart通过支付宝赞助 0.50 元
-2. 2016年9月28日 Jelly通过微信赞助 0.60 元
+1. 2016年9月1日 Fighting Heart 通过支付宝赞助 0.50 元
+2. 2016年9月28日 Jelly 通过微信赞助 0.60 元
 
 
 
