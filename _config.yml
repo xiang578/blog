@@ -81,7 +81,7 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: even
 
-# 自动生成sitemap
+# 自动生成 sitemap
 sitemap:
     path: sitemap.xml
 baidusitemap:
