@@ -17,8 +17,7 @@
 </p>
 
 ## 007 不写就出局
-![IMG_0233](http://
-7xkpe5.com1.z0.glb.clouddn.com/IMG_0233.JPG)
+![007](../down/007.jpg)
 
 ## 参考列表
 - 收集使用这种方法的 repo 地址中，欢迎与我联系
