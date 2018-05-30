@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-<a href="https://travis-ci.org/xiang578/xiang578.github.io"><img src="https://travis-ci.org/xiang578/xiang578.github.io.svg?branch=master" /></a>
+<a href="https://travis-ci.org/xiang578/blog"><img src="https://travis-ci.org/xiang578/xiang578.github.io.svg?branch=master" /></a>
 <a href="https://github.com/xiang578/xiang578.github.io/issues#boards?notFullScreen=false&amp;repos=50039903&amp;showClosed=false" target="_blank" rel="external"><img src="https://img.shields.io/github/issues/xiang578/xiang578.github.io.svg?maxAge=2592000" alt="GitHub Issues"></a>
 <a href="https://github.com/xiang578/xiang578.github.io/issues?q=is%3Aissue+is%3Aclosed" target="_blank" rel="external"><img src="https://img.shields.io/github/issues-closed-raw/xiang578/xiang578.github.io.svg?maxAge=2592000" alt=""></a>
 <a href="https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FJimmyLv%2Fjimmylv.github.io?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FJimmyLv%2Fjimmylv.github.io.svg?type=shield"/></a>
