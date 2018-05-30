@@ -17,7 +17,7 @@ after_script:
   - git config user.name "xiang578"
   - git config user.email "xiang578@foxmail.com"
   - git add .
-  - git commit -m "Deploy at 'date + "%Y-%m-%d"'"
+  - git commit -m "Deploy at $(date + "%Y-%m-%d")"
   # Github Pages
   - git push --force --quiet "https://${CI_TOKEN}@${GH_REF}" master:master 
   # Coding Pages
