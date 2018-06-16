@@ -2,7 +2,7 @@
 title: 《机器学习》 第 3 章 线性模型 读书笔记
 date: 2018-06-09 16:29:21
 tags: MachineLearning
-categories: 机器学习
+categories: 机器之心
 ---
 
 > 西瓜书 周志华 2016 年 12 月第 14 次印刷
