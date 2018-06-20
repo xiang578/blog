@@ -42,7 +42,7 @@ categories: 生活志
 
 上面写了这么多，终于到了最关键的一步。由于这是一次个人分享，所以也谈不上什么集思广益。不知道现阶段有没有什么头脑风暴的工具，我直接掏出几张草稿纸就开始搞了。上面的介绍也提到了，头脑风暴的原则，将大脑中的想法排空，为下一步工作做准备。
 
-![IMG_0321](http://
+![头脑风暴](http://
 7xkpe5.com1.z0.glb.clouddn.com/IMG_0321.jpg)
 
 ### 4. 组织整理
@@ -56,7 +56,7 @@ categories: 生活志
 
 目前我是在使用 Emacs 中的 org-mode 管理这些项目。所以，我就将自己要做的事情放到一个文件中。下图是完成这个项目之后的结果，当然也有些行动被我取消了。
 
-![](http://
+![组织](http://
 7xkpe5.com1.z0.glb.clouddn.com/15248181125952.jpg)
 
 ## 回顾
@@ -70,7 +70,7 @@ categories: 生活志
 
 从演讲效果来说，内容是很丰富的，但是我的演讲能力很差，之前在上面提到的问题，都暴露无疑，还是需要加强锻炼。也由于时间上的一些原因，我的准备不够充分，试讲次数也太少了，导致节奏控制也不好。还要对浪费17计算班同学的时间，表示一些歉意。
 
-[点击查看我使用的ppt](https://github.com/xiang578/xiang578.github.io/blob/master/down/0425%E6%96%B0.pdf)，文字形式的分享等我有空再来整理吧。
+[点击查看我使用的ppt](https://github.com/xiang578/xiang578.github.io/blob/master/file/0425.pdf)，文字形式的分享等我有空再来整理吧。
 
 ## 参考
 - [自然式计划模式](http://files.cnblogs.com/files/speeding/%E6%90%9E%E5%AE%9AGTD%EF%BC%9A%E8%87%AA%E7%84%B6%E5%BC%8F%E8%AE%A1%E5%88%92%E6%A8%A1%E5%BC%8F2016.pdf)

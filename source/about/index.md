@@ -11,8 +11,8 @@ date: 2015-08-15 10:59:25
 ----------
 
 # 交流
-- 2018年5月 《Standard Template Library》@ACM 集训队 总结 下载
-- 2018年4月 《路径规划那些事》@17计算机 [总结](https://xiang578.com/2018/04/28/use-gtd-to-speach/) [下载]()
+- 2018年5月 [《Standard Template Library》@浙江财经大学 ACM 集训队]() [PDF 下载](https://github.com/xiang578/xiang578.github.io/blob/master/file/stl.pdf)
+- 2018年4月 [《路径规划那些事》@浙江财经大学 17计算机](https://xiang578.com/2018/04/28/use-gtd-to-speach/) [PDF 下载](https://github.com/xiang578/xiang578.github.io/blob/master/file/0425.pdf)
 
 ----------
 # 友情链接
