@@ -8,9 +8,9 @@ categories: 每周分享
 > 这里记录过去一周，我看到的值得分享的东西，每周六更新。
 
 ## 文章
-- [一个程序员的成长之路 · Issue #41 · fouber/blog](https://github.com/fouber/blog/issues/41)：之前一直在思考如何讲一些分享展示出来，这篇文章也给了启发，另一方面也可以当成写逐字稿的形式。
+- [一个程序员的成长之路 · Issue #41 · fouber/blog](https://github.com/fouber/blog/issues/41)：之前一直在思考如何将一些分享展示出来，从这篇文章中得到启发，将 ppt 全部转换成图片，并且配上文字解说。
 - [超一流作家的写作利器：用卡片提升创意的密度](https://zhuanlan.zhihu.com/p/22341499)：卡片写作法，下一个阶段学习的重点之一。离线杂志的内容和形式也很有趣，不过目前停更了。
-- [校长钟晓敏寄语2018届毕业生：拥抱时代，创造幸福](https://mp.weixin.qq.com/s?__biz=MzA4NzUxNTg5Mw==&mid=2649549496&idx=2&sn=aa54043a09cdd891f9fcefd4e244e12f&chksm=88207d22bf57f434122140d7a7281b0d029080c03805ddb7a4162fdd0887d7eee85cd2c926bc&mpshare=1&scene=1&srcid=0613j7fnLgnawhapF8eNkTRg%23rd)：毕业季，贴出自己学校校长的毕业典礼演讲稿。从内容上来说平淡无奇，毫无在互联网上火爆的可能。听完之后，我记得也只有一句「我们每个人都是由自己一再重复的行为所铸造的。因而优秀不是一种行为，而是一种习惯。」
+- [校长钟晓敏寄语2018届毕业生：拥抱时代，创造幸福](https://mp.weixin.qq.com/s?__biz=MzA4NzUxNTg5Mw==&mid=2649549496&idx=2&sn=aa54043a09cdd891f9fcefd4e244e12f&chksm=88207d22bf57f434122140d7a7281b0d029080c03805ddb7a4162fdd0887d7eee85cd2c926bc&mpshare=1&scene=1&srcid=0613j7fnLgnawhapF8eNkTRg%23rd)：毕业季，贴出自己学校校长的毕业典礼演讲稿。从内容上来说平淡无奇，毫无在互联网上火爆的可能。听完之后，只记下了一句「我们每个人都是由自己一再重复的行为所铸造的。因而优秀不是一种行为，而是一种习惯。」
   
 ## 图片
 - 微博中图片，有一种共建二流的错觉。好的学校创建世界一流，普通学校创建国内一流，就没有安心当二流的学校。
