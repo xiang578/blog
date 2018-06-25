@@ -95,3 +95,40 @@ categories: 同文馆
 
 **20 While self-reliance is a crucial quality that everyone should strive to develop, it is also vital that we learn how to accept other's help. **
 - 参考译文：虽然自立是每个人都应该努力培养的重要品质，学会如何接受他人的帮助也是非常重要的。
+
+**21 Unemployment causes young people to suffer from an unstable income as well as the psychological stress of not knowing when they will get their next paycheck.**
+
+- 失业除了导致年轻人没有稳定的收入，还给他们增加了不知道下次什么时候获得薪水的压力。
+- 参考译文：失业使年轻人收入不稳定，并承受不知何时才能再次领到薪水的心理压力。
+
+**22 The craze for government posts has become a phenomenon that cannot be ignored, and has stirred a heated debate.**
+
+- government posts 公务员
+- 对公务员狂热的已经成为一种不可以忽视的现象，这引起了公众热烈的讨论。
+- 参考译文：公务员热已经成为一种不能忽视的现象，引发了人们热烈的讨论。
+
+
+**23 The media could play an active role in encouraging energy-efficient measures.**
+
+
+- 媒体可以在鼓励节能上发挥出重要的作用。
+- 参考译文：媒体在鼓励节能举措方面可以发挥积极的作用。
+
+
+**24 Another harmful human activity is our over-utilization of the limited farmland without allowing land the time it takes to replenish nutrients.**
+
+
+- 其他有害的人类活动还有对有限的土地的过度使用，导致它们没有时间恢复养分。
+- 参考译文：人类进行的另一种有害活动是我们对有限农田的过度使用，而不给土地所需的补充营养的时间。
+
+
+**25 Urbanization has some negative effects on society as large concentrations of people compete for limited resources.**
+
+
+- 城市化对社会也有许多消极的影响，比如高度集中的人口争夺有限的资源。
+- 城市化对社会有一些负面的影响，因为大量集中的人口要争夺有限的资源。
+
+**26 As a green lifestyle, a low-carbon life advocates low energy consumption, thereby reducing CO2 emissions.**
+- 与绿色生活类似，低碳生活提倡减少能源消耗，以此减少二氧化碳排放
+- 作为一种绿色的生活方式，低碳生活提倡低能耗，由此减少了二氧化碳的排放量。
+
