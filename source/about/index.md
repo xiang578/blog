@@ -12,11 +12,11 @@ date: 2015-08-15 10:59:25
 ### 交流
 - 2018年5月 [《Standard Template Library》]()@浙江财经大学 ACM 集训队 [PDF 下载](https://github.com/xiang578/xiang578.github.io/blob/master/file/stl.pdf)
 - 2018年4月 [《路径规划那些事》](https://xiang578.com/2018/04/28/use-gtd-to-speach/)@浙江财经大学 17计算机 [PDF 下载](https://github.com/xiang578/xiang578.github.io/blob/master/file/0425.pdf)
-- 2017年5月 数位 DP
-- 2016年6月 堆及其应用
-- 2016年6月 树链剖分
+- 2017年5月 数位 DP [PDF 下载](https://github.com/xiang578/xiang578.github.io/blob/master/file/20170525dp.pdf)
+- 2016年6月 堆及其应用 [PDF 下载](https://github.com/xiang578/xiang578.github.io/blob/master/file/2016heap.pdf)
+- 2016年6月 树链剖分 [PDF 下载](https://github.com/xiang578/xiang578.github.io/blob/master/file/2016treechain.pdf)
 - 2016年5月 搜索加强 [PDF 下载](https://github.com/xiang578/xiang578.github.io/blob/master/file/20160531search.pdf)
-- 2016年5月 树型动态规划
+- 2016年5月 树型动态规划 [PDF 下载](https://github.com/xiang578/xiang578.github.io/blob/master/file/20160531dp.pdf)
 
 
 ### 友情链接
