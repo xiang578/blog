@@ -20,7 +20,9 @@
 ![007](./file/007.JPG)
 
 ## 参考列表
-- 收集使用这种方法的 repo 地址中，欢迎与我联系
+
+> 收集使用这种方法的 repo 地址中，欢迎与我联系
+
 - [jimmylv.github.io/README.md at master · JimmyLv/jimmylv.github.io](https://github.com/JimmyLv/jimmylv.github.io/blob/master/README.md)
 - [Issues · linesh-simplicity/linesh-simplicity.github.io](https://github.com/linesh-simplicity/linesh-simplicity.github.io/issues)
 
