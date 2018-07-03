@@ -10,18 +10,10 @@ date: 2015-08-15 10:59:25
 目前我在尝试一种基于 GitHub Issues 的项目管理方式，希望能达到持续行动，持续反思，持续进步，持续成长。相关的介绍在 [xiang578/xiang578.github.io](https://github.com/xiang578/xiang578.github.io)，记录主页面在 [Issues · xiang578/xiang578.github.io](https://github.com/xiang578/xiang578.github.io/issues)。
 
 <p align="center">
-<a href="https://travis-ci.com/xiang578/blog"><img src="https://travis-ci.com/xiang578/blog.svg?branch=master" /></a>
-<a href="https://github.com/xiang578/xiang578.github.io/issues#boards?notFullScreen=false&amp;repos=50039903&amp;showClosed=false" target="_blank" rel="external"><img src="https://img.shields.io/github/issues/xiang578/xiang578.github.io.svg?maxAge=2592000" alt="GitHub Issues"></a>
-<a href="https://github.com/xiang578/xiang578.github.io/issues?q=is%3Aissue+is%3Aclosed" target="_blank" rel="external"><img src="https://img.shields.io/github/issues-closed-raw/xiang578/xiang578.github.io.svg?maxAge=2592000" alt=""></a>
-<a href="https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FJimmyLv%2Fjimmylv.github.io?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FJimmyLv%2Fjimmylv.github.io.svg?type=shield"/></a>
-<img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" />
 <a href="https://waffle.io/xiang578/xiang578.github.io/metrics/throughput" alt="Throughput Graph"><img src="https://graphs.waffle.io/xiang578/xiang578.github.io/throughput.svg"/></a>
 </p>
 
-同时我也是 007·不写就出局 写作社群中的一员。这个社群要求成员，每 7 天写一篇文章，并且相互点评。如果你对他感兴趣，可以扫描下方二维码进行深入了解。
-
-![007二维码](http://
-7xkpe5.com1.z0.glb.clouddn.com/IMG_0233.JPG)
+同时我也是 007·不写就出局 写作社群中的一员。这个社群要求成员，每 7 天写一篇文章，并且相互点评。如果你想了解更多相关社群信息，可以查看我写的文章 [007 不出局活动与我 - RyenX](https://xiang578.com/2018/02/13/007-and-me/)，扫描这篇文章底部二维码，即可加入007。
 
 
 关注的领域：
