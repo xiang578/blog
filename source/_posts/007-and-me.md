@@ -32,7 +32,7 @@ categories: 七年之旅
 前几天阅读到一个有意思的文章[社群十五问 - 笨方法学写作](http://www.cnfeat.com/blog/2018/01/19/Community15Ask/)，今天也在这里分享一下我的回答。
 
 1. 你的名字、地区、职业、长时间持续做的一件事、博客/公众号/简书 是什么？
-    - 项闰冶，杭州，计算机科学与技术专业大四学生，即将踏入红尘。
+    - Ryen，杭州，计算机科学与技术专业大四学生，即将踏入红尘。
     - 大学阶段持续参加程序设计竞赛，博客上有一些相关的流水账：[2017年上海 ACM/ICPC ECL-Final - ZenTalk](http://www.xiang578.com/2017/12/18/icpc-ecl-shanghai-2017/)、[2017年西安区域赛 - ZenTalk](http://www.xiang578.com/2017/11/05/icpc-xian-2017/)、[浙江省第十四届程序设计竞赛总结 - ZenTalk](http://www.xiang578.com/2017/04/23/zjp-2017/)、[2016年北京区域赛 - ZenTalk](http://www.xiang578.com/2017/01/29/icpc-beijing-2016/)、[第七届蓝桥杯决赛杂记 - ZenTalk](http://www.xiang578.com/2016/06/04/lanqiaobei2016/)
     - 博客：[ZenTalk](http://www.xiang578.com/) 折腾WordPress、Hexo
     - 算法博客：[禅境花园 - CSDN博客](http://blog.csdn.net/xinag578) 之间写的一些算法题解
