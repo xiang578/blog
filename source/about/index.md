@@ -5,26 +5,24 @@ date: 2015-08-15 10:59:25
 
 ## About Me
 
-[RyenX](https://github.com/xiang578)，数字生活布道师。2018年7月，从国内一所不知名的二本大学毕业。回望四年，自我评价计算专业业余学生。多次参加 ACM 比赛，实力属于打铁行列，侥幸抱上大腿获得过[金](https://xiang578.com/2017/11/05/icpc-xian-2017/)[银](https://xiang578.com/2017/12/18/icpc-ecl-shanghai-2017/)[铜](https://xiang578.com/2017/01/29/icpc-beijing-2016/)奖。目前，在一家出行相关公司地图部门工作，也算是一名不会机器学习的算法工程师。如果想和我聊一聊，可以通过邮箱 i@xiang578.com 实现。
+[RyenX](https://github.com/xiang578)，数字生活探索者。2018年7月，从国内一所不知名的二本大学毕业。回望四年，自我评价计算专业业余学生。多次参加 ACM 比赛，实力属于打铁行列，侥幸抱上大腿获得过[金](https://xiang578.com/2017/11/05/icpc-xian-2017/)[银](https://xiang578.com/2017/12/18/icpc-ecl-shanghai-2017/)[铜](https://xiang578.com/2017/01/29/icpc-beijing-2016/)奖。目前，在国内一家出行领域公司地图部门工作，算是不会机器学习的算法工程师。如果想联系我，可以在页面最下方找到通讯方式。
 
-目前我在尝试一种基于 GitHub Issues 的项目管理方式，希望能达到持续行动，持续反思，持续进步，持续成长。相关的介绍在 [xiang578/xiang578.github.io](https://github.com/xiang578/xiang578.github.io)，记录主页面在 [Issues · xiang578/xiang578.github.io](https://github.com/xiang578/xiang578.github.io/issues)。
+目前我在尝试一种基于 GitHub Issues 的个人项目管理方法，希望能达到持续行动，持续反思，持续进步，持续成长的目标。相关的介绍在 [xiang578/xiang578.github.io](https://github.com/xiang578/xiang578.github.io)，记录主页面在 [Issues · xiang578/xiang578.github.io](https://github.com/xiang578/xiang578.github.io/issues)。
 
 <p align="center">
 <a href="https://waffle.io/xiang578/xiang578.github.io/metrics/throughput" alt="Throughput Graph"><img src="https://graphs.waffle.io/xiang578/xiang578.github.io/throughput.svg"/></a>
 </p>
 
-同时我也是 007·不写就出局 写作社群中的一员。这个社群要求成员，每 7 天写一篇文章，并且相互点评。如果你想了解更多相关社群信息，可以查看我写的文章 [007 不出局活动与我 - RyenX](https://xiang578.com/2018/02/13/007-and-me/)，扫描这篇文章底部二维码，即可加入007。
+同时我也是「007·不写就出局」写作社群中的一员。这个社群的要求是「7 天写 1 篇写 7 年」。如果你想了解更多相关社群信息，可以查看我的投名状 [007 不出局活动与我](https://xiang578.com/2018/02/13/007-and-me/)，扫描这篇文章底部二维码，即可加入007。
 
-
-关注的领域：
+下面是我近期关注的领域，欢迎来留言讨论相关的问题：
 
 - 机器学习
 - Getting Things Done
 
 ### 分享
 
-> 我做过的一些公众分享记录以及所使用的文档。
-> 如果你对这些话题感兴趣，可以与我联系。
+> 我做过的一些分享记录以及所使用的文档。
 
 - 2018年5月 [《Standard Template Library》]() [PDF 下载](https://github.com/xiang578/xiang578.github.io/blob/master/file/stl.pdf)
 - 2018年4月 [《路径规划那些事》](https://xiang578.com/2018/04/28/use-gtd-to-speach/) [PDF 下载](https://github.com/xiang578/xiang578.github.io/blob/master/file/0425.pdf)
@@ -39,7 +37,7 @@ date: 2015-08-15 10:59:25
 
 - [海虹不老阁](http://haihongblog.com/)：~~北京某知名高校研究生~~ ~~浙江某985高校研究生~~ 小仙女？
 - [Ocrosoft](https://www.ocrosoft.com/)：有点杂，看他最近对什么感兴趣
-- [Fighting Heart](http://www.cnblogs.com/zufezzt): Microsoft - Software Engineer，浙江财经大学本科生巅峰典范
+- [Fighting Heart](http://www.cnblogs.com/zufezzt): 「Microsoft - Software Engineer」浙江财经大学本科生巅峰典范
 
 
 ----------
@@ -58,5 +56,5 @@ date: 2015-08-15 10:59:25
 
 ----------
 
-有幸看到这里，不留一条言介绍一下你吗？
+有幸看到这里，不留言介绍一下你？
 
