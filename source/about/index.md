@@ -5,7 +5,8 @@ date: 2015-08-15 10:59:25
 
 ## About Me
 
-[RyenX](https://github.com/xiang578)，数字生活探索者。2018年7月，从国内一所不知名的大学毕业。回望四年，自我评价计算专业业余学生。多次参加 ACM 比赛，实力属于打铁行列，侥幸抱上大腿获得过[金](https://xiang578.com/2017/11/05/icpc-xian-2017/)[银](https://xiang578.com/2017/12/18/icpc-ecl-shanghai-2017/)[铜](https://xiang578.com/2017/01/29/icpc-beijing-2016/)奖。目前，在国内一家出行领域公司地图部门工作，算是不会机器学习的算法工程师。如果想联系我，可以在页面最下方找到通讯方式。
+互联网上常用名：[RyenX](https://github.com/xiang578)、xiang578
+2018年7月，从国内一所不知名的大学毕业。回望四年，自我评价计算专业业余学生。多次参加 ACM 比赛，实力属于打铁行列，侥幸抱上大腿获得过[金](https://xiang578.com/2017/11/05/icpc-xian-2017/)[银](https://xiang578.com/2017/12/18/icpc-ecl-shanghai-2017/)[铜](https://xiang578.com/2017/01/29/icpc-beijing-2016/)奖。目前，在国内一家出行领域公司地图部门工作，算是不会机器学习的算法工程师。如果想联系我，可以在页面最下方找到通讯方式。
 
 目前我在尝试一种基于 GitHub Issues 的个人项目管理方法，希望能达到持续行动，持续反思，持续进步，持续成长的目标。相关的介绍在 [xiang578/xiang578.github.io](https://github.com/xiang578/xiang578.github.io)，记录主页面在 [Issues · xiang578/xiang578.github.io](https://github.com/xiang578/xiang578.github.io/issues)。
 
@@ -37,7 +38,7 @@ date: 2015-08-15 10:59:25
 
 - [海虹不老阁](http://haihongblog.com/)：~~北京某知名高校研究生~~ ~~浙江某985高校研究生~~ 小仙女？
 - [Ocrosoft](https://www.ocrosoft.com/)：有点杂，看他最近对什么感兴趣
-- [Fighting Heart](http://www.cnblogs.com/zufezzt): 「Microsoft - Software Engineer」浙江财经大学本科生巅峰典范
+- [Fighting Heart](http://www.cnblogs.com/zufezzt): **「Microsoft - Software Engineer」** 浙江财经大学本科生巅峰典范
 
 
 ----------
